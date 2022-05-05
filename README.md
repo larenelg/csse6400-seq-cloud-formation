@@ -6,7 +6,7 @@
 
     a. Prepare template — "Template is ready"
     
-    b. Sepcify template — "Upload a template file"
+    b. Specify template — "Upload a template file"
     
     c. Upload the seqcfn.yaml in this repository
     
@@ -49,4 +49,4 @@ Username: admin
 Password: password
 ```
 
-**Make sure you change the password as soon as you log in**
+**Make sure you change the password as soon as you log in!**
