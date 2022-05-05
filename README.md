@@ -31,9 +31,11 @@
 
 ![image](https://user-images.githubusercontent.com/7476736/166860644-f11c30d4-141b-4760-a295-bedd37f69fb3.png)
 
-7. Go to the IP address above (no need to add port 5341, it's mapped to port 80).
+7. Go to the IP address above (no need to add port 5341, it's mapped to port 80), and log in using the default password, below.
 
+```
 Username: admin
 Password: password
+```
 
 **Make sure you change the password as soon as you log in**
