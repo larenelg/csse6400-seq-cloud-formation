@@ -36,7 +36,9 @@
 
 ![image](https://user-images.githubusercontent.com/7476736/166860564-ac25fb46-ad20-456e-b575-8d6e0120a0fd.png)
 
-6. How to find out the Public IP address of the Seq instance (you can set up your own LB if you like).
+6. In AWS, go to **Elastic Container Service**, in **Clusters**, click on "Seq", click on the **Tasks** tab, click on the task ID. You will see the Public IP Address in the properties on this page.
+
+![image](https://user-images.githubusercontent.com/7476736/166861592-0e1d9dc1-088b-4898-9a2e-0a02495bc96a.png)
 
 ![image](https://user-images.githubusercontent.com/7476736/166860644-f11c30d4-141b-4760-a295-bedd37f69fb3.png)
 
